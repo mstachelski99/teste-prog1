@@ -9,3 +9,11 @@ int sub(int a, int b){
 	int res= a-b;
 	return res;
 }
+
+int multi(int a, int b){
+	
+}
+
+int  quad(int a){
+	
+}
